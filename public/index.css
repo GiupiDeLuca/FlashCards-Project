@@ -1,0 +1,9 @@
+.bigTextarea {
+    width: 100%;
+    min-height: 200px;
+}
+
+.mediumTextarea {
+    width:100%;
+    min-height: 80px;
+}
