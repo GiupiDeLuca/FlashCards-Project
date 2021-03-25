@@ -11,7 +11,7 @@ function Home() {
     history.push("/decks/new");
   }
 
-  listDecks().then(console.log)
+  
 
   return (
     <div>
